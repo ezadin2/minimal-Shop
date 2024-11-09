@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Images
+
+Here are some product images from the Minimal-Shop:
+
+### Glasses
+![Glasses](images/glasses.png)
+
+### Hoodie
+![Hoodie](images/hoodie.png)
+
+### Shoes
+![Shoes](images/shoes.png)
+
+### Watch
+![Watch](images/watch.png)
